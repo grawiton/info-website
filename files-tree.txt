@@ -1,0 +1,120 @@
+www
+|   Index.html
+|   files-tree.txt
+|   
+\---Resources
+    +---Fonts
+    |       glyphicons-halflings-regular.eot
+    |       glyphicons-halflings-regular.svg
+    |       glyphicons-halflings-regular.ttf
+    |       glyphicons-halflings-regular.woff
+    |       glyphicons-halflings-regular.woff2
+    |       
+    +---Images
+    |   |   footer_arrow.png
+    |   |   header_bar.png
+    |   |   logo_eska.png
+    |   |   logo_fokus.png
+    |   |   logo_hbbtv.png
+    |   |   logo_lg.png
+    |   |   logo_panasonic.png
+    |   |   logo_philips.png
+    |   |   logo_polo.png
+    |   |   logo_samsung.png
+    |   |   logo_sharp.png
+    |   |   logo_sony.png
+    |   |   logo_thomson.png
+    |   |   logo_toshiba.png
+    |   |   logo_vox.png
+    |   |   logo_zpr.png
+    |   |   modal_close.png
+    |   |   s1_arrow_down.png
+    |   |   s1_img.png
+    |   |   s5_arrow_down.png
+    |   |   seemovie.png
+    |   |   seemovie_b.png
+    |   |   tv-settings.png
+    |   |   youtube.png
+    |   |   
+    |   +---bg
+    |   |       chill.png
+    |   |       phone.jpg
+    |   |       s1_bg.png
+    |   |       s2_bg.png
+    |   |       s5_bg.png
+    |   |       s6_bg.png
+    |   |       tv_frame.png
+    |   |       
+    |   +---foot
+    |   |       foot_8tv.png
+    |   |       foot_eska.png
+    |   |       foot_fokus.png
+    |   |       foot_hh.png
+    |   |       foot_nowatv.png
+    |   |       foot_polotv.png
+    |   |       foot_voxtv.png
+    |   |       
+    |   +---icon
+    |   |       icon_calendar_off.png
+    |   |       icon_calendar_on.png
+    |   |       icon_chat_off.png
+    |   |       icon_chat_on.png
+    |   |       icon_epg_off.png
+    |   |       icon_epg_on.png
+    |   |       icon_games_off.png
+    |   |       icon_games_on.png
+    |   |       icon_more_off.png
+    |   |       icon_more_on.png
+    |   |       icon_play.png
+    |   |       icon_quote_off.png
+    |   |       icon_quote_on.png
+    |   |       icon_radio_off.png
+    |   |       icon_radio_on.png
+    |   |       icon_sport_off.png
+    |   |       icon_sport_on.png
+    |   |       icon_sync_off.png
+    |   |       icon_sync_on.png
+    |   |       icon_vod_off.png
+    |   |       icon_vod_on.png
+    |   |       icon_weather_off.png
+    |   |       icon_weather_on.png
+    |   |       
+    |   \---logo
+    |           logo_8tv.png
+    |           logo_eskatv.png
+    |           logo_fokus.png
+    |           logo_hbbtv.png
+    |           logo_hh.png
+    |           logo_hybrydowa.png
+    |           logo_lg.png
+    |           logo_nowatv.png
+    |           logo_panasonic.png
+    |           logo_philips.png
+    |           logo_polo.png
+    |           logo_samsung.png
+    |           logo_sharp.png
+    |           logo_sony.png
+    |           logo_thomson.png
+    |           logo_toshiba.png
+    |           logo_vox.png
+    |           
+    +---Scripts
+    |       bootstrap.js
+    |       bootstrap.min.js
+    |       cbpAnimatedHeader.js
+    |       cbpAnimatedHeader.min.js
+    |       classie.js
+    |       freelancer.js
+    |       jquery.easing.min.js
+    |       jquery.min.js
+    |       npm.js
+    |       
+    \---Styles
+            bootstrap-theme.css
+            bootstrap-theme.css.map
+            bootstrap-theme.min.css
+            bootstrap.css
+            bootstrap.css.map
+            bootstrap.min.css
+            style.css
+            
